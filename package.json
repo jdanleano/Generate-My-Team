@@ -1,0 +1,27 @@
+{
+  "name": "generate-my-team",
+  "version": "1.0.0",
+  "description": "Create your team of misfit coders",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdanleano/Generate-My-Team.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdanleano/Generate-My-Team/issues"
+  },
+  "homepage": "https://github.com/jdanleano/Generate-My-Team#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
